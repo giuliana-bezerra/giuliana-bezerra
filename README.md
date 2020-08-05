@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm [Giuliana](https://www.linkedin.com/in/giulianabezerra/)! 
 
-<!--
-**giuliana-bezerra/giuliana-bezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Giuliana, a Software Archictect and Full Stack Developer from Brazil. I have recently started working as an [online instructor](https://www.udemy.com/user/giuliana-silva-bezerra/) creating courses about my favorite framework: [Spring](https://spring.io/). Besides programing, I enjoy music, movies, books, arts, and games!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on courses about Spring
+- 🌱 I’m currently learning SPA frameworks and Microservices patterns
+- 👯 I’m looking to collaborate on an opensource project
+- 🤔 I’m looking for help with ideas for new courses
+- 💬 Ask me about my projects
+- 📫 How to reach me: giu.drawer@gmail.com
+- 😄 Pronouns: She / Her
+- ⚡ Interesting fact: The first programmer in the world was a woman
