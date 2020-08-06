@@ -1,3 +1,5 @@
+<img width="700" height="300" src="https://github.com/giuliana-bezerra/giuliana-bezerra/blob/master/banner.png">
+
 ### Hi there 👋, I'm [Giuliana](https://www.linkedin.com/in/giulianabezerra/)! 
 
 Hi, I'm Giuliana, a Software Archictect and Full Stack Developer from Brazil. I have recently started working as an [online instructor](https://www.udemy.com/user/giuliana-silva-bezerra/) creating courses about my favorite framework: [Spring](https://spring.io/). Besides programing, I enjoy music, movies, books, arts, and games!
