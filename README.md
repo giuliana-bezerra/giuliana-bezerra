@@ -1,4 +1,4 @@
-<img width="700" height="300" src="https://github.com/giuliana-bezerra/giuliana-bezerra/blob/master/banner.png">
+<img width="700" height="300" src="https://www.aoptraininginstitute.com/wp-content/themes/aop/assets/images/Banner-java.jpg">
 
 ### Hi there 👋, I'm [Giuliana](https://www.linkedin.com/in/giulianabezerra/)! 
 
