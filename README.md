@@ -1,4 +1,4 @@
-<img width="700" height="300" src="https://www.aoptraininginstitute.com/wp-content/themes/aop/assets/images/Banner-java.jpg">
+<img src="https://blog.newrelic.com/wp-content/uploads/good-programmer-banner.jpg">
 
 ### Hi there 👋, I'm [Giuliana](https://www.linkedin.com/in/giulianabezerra/)! 
 
