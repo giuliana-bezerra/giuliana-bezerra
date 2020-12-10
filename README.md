@@ -1,5 +1,4 @@
 <img src="https://blog.newrelic.com/wp-content/uploads/good-programmer-banner.jpg">
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=giuliana-bezerra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋, I'm [Giuliana](https://www.linkedin.com/in/giulianabezerra/)! 
 
