@@ -15,3 +15,5 @@ Hi, I'm Giuliana, a Software Archictect, [Online Instructor](https://www.udemy.c
 :speaking_head: Languages: Português | English <br/>
 😄 Pronouns: She / Her <br/>
 ⚡ Interesting fact: The first programmer in the world was a woman 
+
+[![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=giuliana-bezerra&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
