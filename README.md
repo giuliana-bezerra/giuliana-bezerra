@@ -1,5 +1,3 @@
-<img src="https://blog.newrelic.com/wp-content/uploads/good-programmer-banner.jpg">
-
 ### Hi there 👋, I'm [Giuliana](https://www.linkedin.com/in/giulianabezerra/)! 
 
 Hi, I'm Giuliana, a Software Archictect, [Online Instructor](https://www.udemy.com/user/giuliana-silva-bezerra/), [Writer](https://medium.com/@giu.drawer), and Full Stack Developer from Brazil. I have recently started creating [courses](https://www.udemy.com/user/giuliana-silva-bezerra/) about my favorite framework: [Spring](https://spring.io/). Besides programing, I enjoy music, movies, books, arts, and games!
