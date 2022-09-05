@@ -8,7 +8,6 @@ Hi, I'm Giuliana, a Software Architect, [Online Instructor](https://www.udemy.co
 🤔 I’m looking for help with ideas for new courses <br/>
 💬 Ask me about my projects <br/>
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-GiulianaBezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulianabezerra/)](https://www.linkedin.com/in/giulianabezerra/)
-|
 [![Gmail Badge](https://img.shields.io/badge/-giu.drawer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giu.drawer@gmail.com)](mailto:giu.drawer@gmail.com)<br/>
 :speaking_head: Languages: Português | English <br/>
 😄 Pronouns: She / Her <br/>
