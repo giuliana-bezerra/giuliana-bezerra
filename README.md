@@ -13,4 +13,4 @@ Hi, I'm Giuliana, a Software Architect, [Online Instructor](https://www.udemy.co
 😄 Pronouns: She / Her <br/>
 ⚡ Interesting fact: The first programmer in the world was a woman 
 
-[![Giuliana's github stats](https://github-readme-stats.vercel.app/api?username=giuliana-bezerra&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Giuliana's github stats](https://github-readme-stats.vercel.app/api?username=giuliana-bezerra&include_all_commits=true&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
