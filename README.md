@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm [Giuliana](https://www.linkedin.com/in/giulianabezerra/)! 
 
-Hi, I'm Giuliana, a Software Architect, [Online Instructor](https://www.udemy.com/user/giuliana-silva-bezerra/), [Writer](https://medium.com/@giu.drawer), [Youtuber](https://shorturl.at/hkmY6) and Full Stack Developer from Brazil. I have created several [courses](https://www.udemy.com/user/giuliana-silva-bezerra/) about software development, feel free to check it out. Besides programming, I enjoy music, movies, books, arts, and games!
+Hi, I'm Giuliana, a Solutions Architect, [Online Instructor](https://www.udemy.com/user/giuliana-silva-bezerra/), [Writer](https://medium.com/@giu.drawer), [Youtuber](https://shorturl.at/hkmY6) and Full Stack Developer from Brazil. I have created several [courses](https://www.udemy.com/user/giuliana-silva-bezerra/) about software development, feel free to check it out. Besides programming, I enjoy music, movies, books, arts, and games!
 
 🔭 I’m currently working at Dataprev <br/>
 🌱 I’m currently learning SPA frameworks and Microservices patterns <br/>
